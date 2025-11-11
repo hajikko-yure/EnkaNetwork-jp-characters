@@ -1,0 +1,2 @@
+# EnkaNetwork-jp-characters
+EnkaNetworkのキャラクターリストを日本語にしました
